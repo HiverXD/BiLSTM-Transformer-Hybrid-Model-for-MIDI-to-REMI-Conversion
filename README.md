@@ -4,7 +4,7 @@
 
 This project is part of my undergraduate thesis, where I propose a novel methodology combining Transformer and BiLSTM models to accurately predict Key and Chord information from MIDI Note data. The predicted information is then used to transform the data into the REMI format. This approach achieves higher accuracy compared to existing MIDI-to-REMI conversion processes based on chroma vectors. The POP909 dataset was utilized, and 12-key augmentation was applied to address dataset bias. The model achieved 86% accuracy in key prediction and 93% accuracy in chord prediction. By integrating the results into the REMI format, this project aims to enhance the usability of MIDI data.
 
-You can check my project paper at : (…)
+You can check my project paper at : (... will be linked later ...)
 
 ---
 
